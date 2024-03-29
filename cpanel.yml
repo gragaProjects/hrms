@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/v9c9n2rae7f3/public_html/hrtest.agmtechnical.com
+    - /bin/cp * $DEPLOYPATH
+  
