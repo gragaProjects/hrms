@@ -82,9 +82,9 @@ if($_SERVER['HTTP_HOST'] == 'localhost')
 }else
 {
 	$hostname = 'localhost';
-	$username = '';
-	$password = '';
-	$database = '';
+	$username = 'demoblri_hrms';
+	$password = '^B]Q;Mf?A-TP';
+	$database = 'demoblri_hrms';
 }
 
 
