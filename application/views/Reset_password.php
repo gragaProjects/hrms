@@ -12,7 +12,7 @@
    <!--  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.ico"> -->
    <title>HR Management System - Powered by AGM Technical Solutions</title>
     <!-- Custom CSS -->
-   <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url(); ?>assets/images/favicon.ico">
+   <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url(); ?>assets/images/favicon.ico ">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/loginassets/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/loginassets/css/style.css">
