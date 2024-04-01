@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <!-- Favicon icon -->
    <!--  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.ico"> -->
-   <title>HR Management System - Powered by AGM Technical Solutions</title>
+   <title>HR Management System - Graga Technologies</title>
     <!-- Custom CSS -->
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url(); ?>assets/images/favicon.ico ">
     <!-- Bootstrap CSS -->
@@ -82,7 +82,7 @@
 
                                  <a href="https://agmtechnical.com/" target="_blank"> <img src="<?php echo base_url(); ?>assets/images/logo/logo-white.png" style="height: ;width: 80px;" alt="Logo"></a>
 
-                                <a href="https://agmtechnical.com/" target="_blank">AGM Technical Solutions</a></p>
+                                <a href="https://agmtechnical.com/" target="_blank">Graga Technologies</a></p>
                         </div>
                     </div>
                 </div>

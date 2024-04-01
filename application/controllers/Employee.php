@@ -274,7 +274,7 @@ class Employee extends CI_Controller {
           <table style="width: 100%;">
         <td style="border: 0;outline: none;width: 214px;">
                  <p style="font-family: sans-serif;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Thank you</p>
-                <p style="font-family: sans-serif;;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Team<br><a href="http://agmtechnical.com/" style="text-decoration: none;color: #666666;">AGM Technical Solutions</a></p>
+                <p style="font-family: sans-serif;;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Team<br><a href="http://agmtechnical.com/" style="text-decoration: none;color: #666666;">Graga Technologies</a></p>
               </td>
             </tr>
           </table>
@@ -360,7 +360,7 @@ class Employee extends CI_Controller {
           <table style="width: 100%;">
         <td style="border: 0;outline: none;width: 214px;">
                  <p style="font-family: sans-serif;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Thank you</p>
-                <p style="font-family: sans-serif;;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Team<br><a href="http://agmtechnical.com/" style="text-decoration: none;color: #666666;">AGM Technical Solutions</a></p>
+                <p style="font-family: sans-serif;;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Team<br><a href="http://agmtechnical.com/" style="text-decoration: none;color: #666666;">Graga Technologies</a></p>
               </td>
             </tr>
           </table>
@@ -2774,7 +2774,7 @@ class Employee extends CI_Controller {
         <td style="border: 0;outline: none;width: 214px;">
         
                  <p style="font-family: sans-serif;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Thank you</p>
-                <p style="font-family: sans-serif;;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Team<br><a href="http://agmtechnical.com/" style="text-decoration: none;color: #666666;">AGM Technical Solutions</a></p>
+                <p style="font-family: sans-serif;;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Team<br><a href="http://agmtechnical.com/" style="text-decoration: none;color: #666666;">Graga Technologies</a></p>
               </td>
             </tr>
           </table>
@@ -3118,7 +3118,7 @@ class Employee extends CI_Controller {
                  <td  width="50" >  Dear</td>
                   <td  width="" style="font-weight:bold">[Employee Name]</td></tr>  
                   <br>
-            <tr>&nbsp;&nbsp;&nbsp;<td align="" style="width: 100%;" colspan="2"> Welcome to <strong> AGM Technical Solutions Co WLL.</strong>  Concerning the discussion, we had with you, we are pleased to appoint you as a <strong> Web Developer </strong> under the following terms and conditions:</td>       
+            <tr>&nbsp;&nbsp;&nbsp;<td align="" style="width: 100%;" colspan="2"> Welcome to <strong> Graga Technologies</strong>  Concerning the discussion, we had with you, we are pleased to appoint you as a <strong> Web Developer </strong> under the following terms and conditions:</td>       
             </tr></table>
             ' ; 
       
@@ -3245,7 +3245,7 @@ class Employee extends CI_Controller {
             </tr>
             <br>
             <tr>
-                &nbsp;&nbsp;<td align="" style="width: 100%; text-align:justify">(a) You shall be responsible for protecting AGM Technical Solutions & its customers assets which are found in many different forms including physical assets, proprietary information, intellectual property, and confidential information.</td>
+                &nbsp;&nbsp;<td align="" style="width: 100%; text-align:justify">(a) You shall be responsible for protecting Graga Technologies & its customers assets which are found in many different forms including physical assets, proprietary information, intellectual property, and confidential information.</td>
             </tr><br><br>';
                  // ----------Third page--------------
 

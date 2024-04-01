@@ -231,7 +231,7 @@ class Login extends CI_Controller {
         <td style="border: 0;outline: none;width: 214px;">
                 <!-- <h2 style="font-family: sans-serif;font-size: 12px;font-weight: bold;margin: 0;padding: 0;color: #32322c; line-height: 24px;">Thank you</h2> -->
                  <p style="font-family: sans-serif;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Your friends at AGM - HRMS</p>
-           <!--      <p style="font-family: sans-serif;;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Team<br><a href="http://agmtechnical.com/" style="text-decoration: none;color: #666666;">AGM Technical Solutions</a></p> -->
+           <!--      <p style="font-family: sans-serif;;font-size: 12px;margin: 0;padding: 0;color: #666666; line-height: 18px;">Team<br><a href="http://agmtechnical.com/" style="text-decoration: none;color: #666666;">Graga Technologies</a></p> -->
               </td>
             </tr>
           </table>

@@ -42,7 +42,7 @@ class AppointmentPdf extends TCPDF {
         <tr>
              <td width="80%" align="" style="border-bottom:2px solid black;">
            <p></p>
-            <p style="font-size:24px; text-align:left">AGM Technical Solutions Co WLL</p>
+            <p style="font-size:24px; text-align:left">Graga Technologies Co WLL</p>
             </td>
             <td style="border-bottom:2px solid black;" width="20%" class="text-right">
             <p></p>
@@ -73,7 +73,7 @@ EOD;
 //         <tr>
 //              <td width="80%" align="" style="border-bottom:2px solid black;">
 //            <p></p>
-//             <p style="font-size:24px; text-align:left">AGM Technical Solutions Co WLL</p>
+//             <p style="font-size:24px; text-align:left">Graga Technologies Co WLL</p>
 //             </td>
 //             <td style="border-bottom:2px solid black;" width="20%" class="text-right">
 //             <p></p>
